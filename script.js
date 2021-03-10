@@ -154,6 +154,7 @@ svg
 		return yScale(d.y);
 	})
 	.attr("r", 5);
+	
 	// .on("mouseover", function (a, b, c) {
 	// 	console.log(a);
 	// 	this.attr("class", "focus");
